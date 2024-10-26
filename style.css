@@ -1,0 +1,16 @@
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.myfirstclass {
+    color: aqua;
+    size: 3px;
+}
+
+.sky {
+    color: blue;
+    padding: 34;
+}
