@@ -19,3 +19,34 @@ body, h1, h2, h3, p {
     color:red;
     size: 4px;
 }
+
+.element {
+    background-image: url('body, h1, h2, h3, p {
+        margin: 0;
+        padding: 0;
+    }
+    
+    
+    
+    .myfirstclass {
+        color: aqua;
+        size: 3px;
+    }
+    
+    .sky {
+        color: blue;
+        padding: 34;
+    }
+    
+    .curse {
+        color:red;
+        size: 4px;
+    }
+    
+    .element {
+        background-image: url('https://i5.walmartimages.ca/images/Enlarge/094/514/6000200094514.jpg?odnHeight=2000&odnWidth=2000&odnBg=FFFFFF'); /* Adjust the path as needed */
+    background-size: cover; /* This makes the image cover the entire element */
+    background-position: center; /* This centers the image */
+    width: 100%; /* Set the desired width */
+    height: 400px; /* Set the desired height */
+}
